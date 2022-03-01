@@ -26,3 +26,16 @@
 @import url(../blocks/slider/__pagination-item/slider__pagination-item.css);
 @import url(../blocks/slider/__pagination-item/_disabled/slider__pagination-item_disabled.css);
 @import url(../blocks/slider/__title/slider__title.css);
+@import url(../blocks/monitor/monitor.css);
+@import url(../blocks/monitor/__arrow-container/monitor__arrow-container.css);
+@import url(../blocks/monitor/__arrow-icon/monitor__arrow-icon.css);
+@import url(../blocks/monitor/__arrow-text/monitor__arrow-text.css);
+@import url(../blocks/monitor/__image/monitor__image.css);
+@import url(../blocks/monitor/__text/monitor__text.css);
+@import url(../blocks/platform/platform.css);
+@import url(../blocks/platform/__heading/platform__heading.css);
+@import url(../blocks/platform/__title/platform__title.css);
+@import url(../blocks/platform/__women-image/platform__woman-image.css);
+@import url(../blocks/platform/__tablet/platform__tablet.css);
+@import url(../blocks/platform/__column/platform__column.css);
+@import url(../blocks/platform/__paragraph/platform__paragraph.css);
