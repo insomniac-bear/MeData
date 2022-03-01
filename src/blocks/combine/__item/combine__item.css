@@ -1,0 +1,12 @@
+.combine__item {
+  margin: 0;
+  padding: 0;
+
+  color: #8040ef;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.combine__item:nth-child(2) {
+  align-self: flex-start;
+}

@@ -1,0 +1,11 @@
+.combine__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 90px auto 0;
+  padding: 0;
+
+  list-style: none;
+  width: 60%;
+  height: 75px;
+}
