@@ -34,3 +34,6 @@
 @import url(../blocks/slider/__control-sub/slider__control-sub.css);
 @import url(../blocks/passport/passport.css);
 @import url(../blocks/passport/__image/passport__image.css);
+@import url(../blocks/collaborative/collaborative.css);
+@import url(../blocks/collaborative/__title/collaborative__title.css);
+@import url(../blocks/collaborative/__text/collaborative__text.css);
