@@ -32,3 +32,5 @@
 @import url(../blocks/slider/__menu/slider__menu.css);
 @import url(../blocks/slider/__control/slider__control.css);
 @import url(../blocks/slider/__control-sub/slider__control-sub.css);
+@import url(../blocks/passport/passport.css);
+@import url(../blocks/passport/__image/passport__image.css);
