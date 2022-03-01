@@ -1,0 +1,6 @@
+.monitor__arrow-container {
+  box-sizing: border-box;
+  padding: 0px 216px;
+  display: flex;
+  justify-content: space-between;
+}

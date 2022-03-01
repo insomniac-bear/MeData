@@ -1,0 +1,12 @@
+.monitor__image {
+  margin-top: 115px;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 655px;
+  background-image: url(../../../images/monitor-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+  border: 15px solid #000000;
+  border-radius: 15px;
+}

@@ -1,0 +1,13 @@
+.platform__tablet {
+  box-sizing: border-box;
+  padding: 130px 100px 130px 0px;
+  min-height: 920px;
+  background-image: url(../../../images/platform-tablet.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas: 'left center right';
+  gap: 50px;
+}
