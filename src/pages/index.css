@@ -39,3 +39,11 @@
 @import url(../blocks/platform/__tablet/platform__tablet.css);
 @import url(../blocks/platform/__column/platform__column.css);
 @import url(../blocks/platform/__paragraph/platform__paragraph.css);
+@import url(../blocks/slider/__text/slider__text.css);
+@import url(../blocks/slider/__text/_type/slider__text_type_small.css);
+@import url(../blocks/slider/__text/_type/slider__text_type_big.css);
+@import url(../blocks/slider/__menu/slider__menu.css);
+@import url(../blocks/slider/__control/slider__control.css);
+@import url(../blocks/slider/__control-sub/slider__control-sub.css);
+@import url(../blocks/passport/passport.css);
+@import url(../blocks/passport/__image/passport__image.css);

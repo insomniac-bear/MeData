@@ -1,0 +1,11 @@
+.slider__control {
+  display: block;
+  padding: 31px 0 35px 0;
+  background-color: inherit;
+  border: none;
+  border-top: 1px solid #242529;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: left;
+}
