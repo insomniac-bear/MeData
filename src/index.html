@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medical data platform</title>
+</head>
+<body>
+  <div class="content">
+    <header class="header">
+      <div class="header__decorate"></div>
+      <div class="header__container">
+        <img src="<%=require('./images/Logo.svg')%>" alt="Medical Data" class="logo">
+        <nav class="navigation">
+          <ul class="navigation__list">
+            <li class="navigation__item"><a href="#" class="navigation__link">Contacts</a></li>
+            <li class="navigation__item"><a href="#" class="navigation__link">Connecting</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="header__container header__container_type_column">
+        <p class="header__text">For personalized healthcare and collaborative research</p>
+        <img src="<%=require('./images/title.png')%>" alt="Medical data platform" class="header__title">
+        <ul class="header__links-list">
+          <li class="header__links-item">
+            <a href="#" class="header__link">About MD</a>
+          </li>
+          <li class="header__links-item">
+            <a href="#" class="header__link">Healthcare Platform</a>
+          </li>
+          <li class="header__links-item">
+            <a href="#" class="header__link">Trends</a>
+          </li>
+        </ul>
+      </div>
+      <div class="header__container header__container_type_pictures">
+        <div class="header__question-container">
+          <img class="header__question-logo" src="<%=require('./images/Simple Logo.svg')%>" alt="Medical Data">
+          <p class="header__question">How it works?</p>
+        </div>
+        <img src="<%=require('./images/header-doctor.jpg')%>" alt="Doctor" class="header__image">
+      </div>
+    </header>
+    <main class="main">
+      <section class="slider">
+        <div class="slider__pagination">
+          <span class="slider__pagination-item">01</span>
+          <span class="slider__pagination-item slider__pagination-item_disabled"> – </span>
+          <span class="slider__pagination-item slider__pagination-item_disabled">03</span>
+        </div>
+        <h2 class="slider__title">About Medical Data</h2>
+        <p class="slider__text slider__text_type_small"> are three fundamental trends regarding healthcare data: it is growing, it is fragmented, and it is under attack. Meanwhile, forces like the increased consumerization of healthcare and the shift to value-based care and, of course, the current pandemic crisis have made the importance of leveraging the power of this data as vital as ever.</p>
+        <p class="slider__text slider__text_type_big">Users expect that any and all health data collected from them – or provided by them – become available to them through the various platforms they may use to manage their health</p>
+        <ul class="slider__menu">
+          <li class="slider__menu-item"><button class="slider__control">02 Medical data value</button></li>
+          <li class="slider__menu-item"><button class="slider__control">03 COVID-19 protection</button></li>
+        </ul>
+      </section>
+      <section class="about">
+        <p class="about__text">Platform task is to use existing technologies for analyzing big data and artificial intelligence to support human health and to give an opportunity deeply study the mechanisms of behavior of COVID-19 and similar viruses and to find effective methods of treatment and protection.</p>
+        <p class="about__description">It empowers to rapidly create and scale the health care industry's next breakthrough applications.</p>
+      </section>
+    </main>
+    <footer class="footer"></footer>
+  </div>
+</body>
+</html>

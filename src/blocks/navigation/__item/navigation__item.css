@@ -1,0 +1,8 @@
+.navigation__item {
+  margin: 0 150px 0 0;
+  padding: 0;
+}
+
+.navigation__item:last-child {
+  margin-right: 0;
+}

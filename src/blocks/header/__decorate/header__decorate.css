@@ -1,0 +1,13 @@
+.header__decorate {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+
+  right: -150px;
+  top: -225px;
+
+  width: 1048px;
+  height: 1048px;
+  border-radius: 50%;
+  background-color: rgba(44, 89, 250, .1);
+}

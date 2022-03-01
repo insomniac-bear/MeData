@@ -1,0 +1,12 @@
+.header__text {
+  align-self: flex-end;
+  margin: 0 155px 0 0;
+  padding: 0;
+
+  color: #fff;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.4;
+
+  width: 304px;
+}

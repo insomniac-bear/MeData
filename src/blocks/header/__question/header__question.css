@@ -1,0 +1,12 @@
+.header__question {
+  margin: 55px auto 0;
+  padding: 0;
+
+  width: 310px;
+
+  color: #fff;
+  font-size: 37px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
