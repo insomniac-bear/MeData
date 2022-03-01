@@ -1,0 +1,12 @@
+.platform__paragraph {
+  margin: 0px 0px 30px;
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 19px;
+}
+
+.platform__paragraph:nth-child(2) {
+  margin-bottom: 270px;
+}

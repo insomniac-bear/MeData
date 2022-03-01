@@ -1,0 +1,8 @@
+.monitor__arrow-icon {
+  width: 180px;
+  height: 90px;
+  background-color: transparent;
+  background-image: url(../../../images/monitor-arrow.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
