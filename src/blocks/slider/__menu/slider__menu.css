@@ -1,0 +1,10 @@
+.slider__menu {
+  grid-area: navigation;
+  margin: 0 0 0 100px;
+  padding: 260px 0 0 0;
+
+  list-style: none;
+  width: 375px;
+
+  border-bottom: 1px solid #242529;
+}

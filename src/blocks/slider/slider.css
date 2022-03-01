@@ -7,6 +7,11 @@
     "navigation .";
   grid-template-columns: 1fr 1fr;
   margin: 0;
-  padding: 90px 0 0 0;
+  padding: 90px 0 265px 0;
   width: 1440px;
+  background-image: url(../../images/slider-background.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 76%;
+  background-size: 867px 588px;
 }

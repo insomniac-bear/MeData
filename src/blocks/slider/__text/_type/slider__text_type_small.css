@@ -1,0 +1,6 @@
+.slider__text_type_small {
+  grid-area: smalltext;
+  margin-right: 90px;
+  margin-left: auto;
+  line-height: 1.4;
+}
