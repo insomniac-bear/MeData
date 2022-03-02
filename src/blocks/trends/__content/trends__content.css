@@ -1,0 +1,12 @@
+.trends__content {
+  box-sizing: border-box;
+  padding-top: 70px;
+  display: grid;
+  grid-template-columns: 1fr 478px;
+  grid-template-rows: repeat(3, auto);
+  grid-template-areas: 
+    'title image'
+    'text caption'
+    'map map';
+  gap: 60px 94px;
+}

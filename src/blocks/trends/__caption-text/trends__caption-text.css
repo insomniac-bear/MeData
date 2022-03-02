@@ -1,0 +1,13 @@
+.trends__caption-text {
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.trends__caption-text:first-child {
+  margin-top: 0;
+}
+
+.trends__caption-text:last-child {
+  margin-bottom: 0;
+}

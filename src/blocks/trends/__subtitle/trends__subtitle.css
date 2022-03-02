@@ -1,0 +1,4 @@
+.trends__subtitle {
+  max-width: 450px;
+  grid-area: title;
+}

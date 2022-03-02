@@ -1,0 +1,6 @@
+.trends__text-container {
+  grid-area: text;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
