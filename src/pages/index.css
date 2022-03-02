@@ -87,3 +87,14 @@
 @import url(../blocks/trends/__map-caption-date/trends__map-caption-date.css);
 @import url(../blocks/trends/__main-text/trends__main-text.css);
 @import url(../blocks/trends/__map-image/trends__map-image.css);
+
+@import url(../blocks/forum/forum.css);
+@import url(../blocks/forum/__title/forum__title.css);
+@import url(../blocks/forum/__content/forum__content.css);
+@import url(../blocks/forum/__text-container/forum__text-container.css);
+@import url(../blocks/forum/__subtitle/forum__subtitle.css);
+@import url(../blocks/forum/__text/forum__text.css);
+@import url(../blocks/forum/__diagrams/forum__diagrams.css);
+@import url(../blocks/forum/__diagram-image/forum__diagram-image.css);
+
+

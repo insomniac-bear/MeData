@@ -1,0 +1,5 @@
+.forum__text-container {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}

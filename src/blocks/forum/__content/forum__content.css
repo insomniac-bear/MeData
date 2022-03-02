@@ -1,0 +1,7 @@
+.forum__content {
+  box-sizing: border-box;
+  padding: 82px 0px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}

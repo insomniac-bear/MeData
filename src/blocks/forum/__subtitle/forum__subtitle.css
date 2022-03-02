@@ -1,0 +1,8 @@
+.forum__subtitle {
+  margin: 0;
+  max-width: 250px;
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 27px;
+  line-height: 31px;
+  font-weight: 700;
+}
