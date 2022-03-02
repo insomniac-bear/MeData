@@ -94,3 +94,22 @@
 @import url(../blocks/mida/__text/_type/mida__text_type_2.css);
 @import url(../blocks/mida/__text/_type/mida__text_type_short.css);
 @import url(../blocks/mida/__image/mida__image.css);
+
+@import url(../blocks/forum/forum.css);
+@import url(../blocks/forum/__title/forum__title.css);
+@import url(../blocks/forum/__content/forum__content.css);
+@import url(../blocks/forum/__text-container/forum__text-container.css);
+@import url(../blocks/forum/__subtitle/forum__subtitle.css);
+@import url(../blocks/forum/__text/forum__text.css);
+@import url(../blocks/forum/__diagrams/forum__diagrams.css);
+@import url(../blocks/forum/__diagram-image/forum__diagram-image.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__adress-list/footer__adress-list.css);
+@import url(../blocks/footer/__caption/footer__caption.css);
+@import url(../blocks/footer/__nav-link/footer__nav-link.css);
+@import url(../blocks/footer/__nav-links/footer__nav-links.css);
+
+
+

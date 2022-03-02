@@ -1,0 +1,12 @@
+.footer__nav-link {
+  text-decoration: none;
+  transition: .4s;
+  color: #000000;
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.footer__nav-link:hover {
+  opacity: .8;
+}
