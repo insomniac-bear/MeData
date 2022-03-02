@@ -1,0 +1,17 @@
+.mida__text_type_short {
+  margin-top: 20px;
+  width: 290px;
+}
+
+.mida__text_type_short1 {
+  grid-area: shorttext1;
+  margin-top: 0;
+}
+
+.mida__text_type_short2 {
+  grid-area: shorttext2;
+}
+
+.mida__text_type_short3 {
+  grid-area: shorttext3;
+}

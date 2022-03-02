@@ -1,0 +1,14 @@
+.mida {
+  display: grid;
+  grid-template-areas:
+    "header header header"
+    "description text text"
+    ". text2 text2"
+    "image image shorttext1"
+    "image image shorttext2"
+    "image image shorttext3";
+  margin: 0 auto;
+  padding: 0 100px;
+  width: 1240px;
+  box-sizing: border-box;
+}

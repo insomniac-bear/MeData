@@ -1,0 +1,8 @@
+.mida__title {
+  grid-area: header;
+  margin: 0;
+  padding: 0;
+  width: 680px;
+  font-size: 50px;
+  font-weight: 400;
+}
