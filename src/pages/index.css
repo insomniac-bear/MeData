@@ -97,4 +97,12 @@
 @import url(../blocks/forum/__diagrams/forum__diagrams.css);
 @import url(../blocks/forum/__diagram-image/forum__diagram-image.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__adress-list/footer__adress-list.css);
+@import url(../blocks/footer/__caption/footer__caption.css);
+@import url(../blocks/footer/__nav-link/footer__nav-link.css);
+@import url(../blocks/footer/__nav-links/footer__nav-links.css);
+
+
 

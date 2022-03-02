@@ -1,0 +1,12 @@
+.footer__adress-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  color: #000000;
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
