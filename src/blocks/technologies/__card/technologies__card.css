@@ -1,0 +1,4 @@
+.technologies__card {
+  display: flex;
+  gap: 16px;
+}

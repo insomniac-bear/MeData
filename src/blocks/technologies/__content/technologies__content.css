@@ -1,0 +1,14 @@
+.technologies__content {
+  box-sizing: border-box;
+  padding: 82px 0px 142px;
+
+  display: grid;
+  grid-template-areas:
+    'title title title'
+    '. data cloud'
+    'web ai cloud'
+    'web ai capt';
+  grid-template-columns: 282px 646px 282px;
+  grid-template-rows: 1fr repeat(3, 282px);
+  gap: 15px;
+}

@@ -1,0 +1,4 @@
+.technologies__caption_area_capt {
+  grid-area: capt;
+  align-self: flex-end;
+}

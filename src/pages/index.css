@@ -56,3 +56,21 @@
 @import url(../blocks/combine/__image/_trip/combine__image_trip.css);
 @import url(../blocks/combine/__list/combine__list.css);
 @import url(../blocks/combine/__item/combine__item.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/technologies/technologies.css);
+@import url(../blocks/technologies/__content/technologies__content.css);
+@import url(../blocks/technologies/__subtitle/technologies__subtitle.css);
+@import url(../blocks/technologies/__card/technologies__card.css);
+@import url(../blocks/technologies/__card/_direction/technologies__card_direction_column.css);
+@import url(../blocks/technologies/__card/_direction/technologies__card_direction_row.css);
+@import url(../blocks/technologies/__card/_area/technologies__card_area_ai.css);
+@import url(../blocks/technologies/__card/_area/technologies__card_area_cloud.css);
+@import url(../blocks/technologies/__card/_area/technologies__card_area_data.css);
+@import url(../blocks/technologies/__card/_area/technologies__card_area_web.css);
+@import url(../blocks/technologies/__image/technologies__image.css);
+@import url(../blocks/technologies/__image/_size/technologies__image_size_s.css);
+@import url(../blocks/technologies/__image/_size/technologies__image_size_l.css);
+@import url(../blocks/technologies/__caption/technologies__caption.css);
+@import url(../blocks/technologies/__caption/_area/technologies__caption_area_capt.css);
+

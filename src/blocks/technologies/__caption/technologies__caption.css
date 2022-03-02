@@ -1,0 +1,18 @@
+.technologies__caption {
+  margin: 0;
+  max-width: 200px;
+  font-family: TTNorms, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.technologies__card_area_cloud .technologies__caption {
+  text-align: right;
+  align-self: flex-end;
+}
+
+.technologies__card_area_data .technologies__caption {
+  text-align: right;
+  align-self: flex-end;
+}

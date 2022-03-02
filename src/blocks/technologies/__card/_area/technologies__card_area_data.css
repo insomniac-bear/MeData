@@ -1,0 +1,4 @@
+.technologies__card_area_data {
+  grid-area: data;
+  justify-content: flex-end;
+}
